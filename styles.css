@@ -486,7 +486,7 @@ background: #8F9DB3;
   background: white;
   } 
 
-  @media (max-device-width:320px)  {
+  @media (max-device-width:480px)  {
     .homepages1 h1{
       font-size: 30px !important;
       text-align: center;
