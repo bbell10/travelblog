@@ -43,10 +43,10 @@ function myFunction() {
 
   // Add a 'mouseover' event listener to change the background image on hover
   hoverElement.addEventListener('mouseover', () => {
-      hoverElement.style.backgroundImage = 'url("airplane.png")';
+      hoverElement.style.backgroundImage = 'url("./macchu")';
   });
   
   // Add a 'mouseout' event listener to revert to the initial background image
   hoverElement.addEventListener('mouseout', () => {
-      hoverElement.style.backgroundImage = 'url("apusiqay")';
+      hoverElement.style.backgroundImage = 'url("./apusiqay")';
   });
