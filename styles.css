@@ -494,9 +494,6 @@ background: #8F9DB3;
     .box1{
 max-height:300px !important;
     }
-    .container{
-      max-height: 600px !important;
-    }
     .homepages1 p{
       font-size: 12px !important;
       text-align: center;
@@ -525,7 +522,6 @@ max-height:300px !important;
  #bottomhp{
   font-size: 30px ;
  }
-
 
   }
   
