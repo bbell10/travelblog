@@ -174,7 +174,7 @@ img, h1, h2, h3, p, li, ul {
     background-size: contain ;
 }
 .box2:hover{ 
-    background-image: url("macchu.jpg");
+    background-image: url("./macchu.jpg");
 }
 
       
@@ -270,7 +270,7 @@ nav {
     opacity: 1;
   }
   .easter-egg:hover{
-    background-image: url(airplane.png);
+    background-image: url(./apusiqay.jpg);
     z-index: 1;
     
   }
