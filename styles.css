@@ -184,7 +184,7 @@ img, h1, h2, h3, p, li, ul {
     justify-content: center;
     padding: 5%;
     column-gap:20px;
-    flex-wrap: wrap; padding: 20px;
+    flex-wrap: wrap;
     
 }
       
@@ -486,7 +486,7 @@ background: #8F9DB3;
   background: white;
   } 
 
-  @media (max-device-width:480px)  {
+  @media (max-device-width:320px)  {
     .homepages1 h1{
       font-size: 30px !important;
       text-align: center;
