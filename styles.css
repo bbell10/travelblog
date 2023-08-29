@@ -184,7 +184,7 @@ img, h1, h2, h3, p, li, ul {
     justify-content: center;
     padding: 5%;
     column-gap:20px;
-    flex-wrap: wrap; padding: 20px;
+    flex-wrap: wrap; 
     
 }
       
@@ -271,6 +271,7 @@ nav {
   }
   .easter-egg:hover{
     background-image: url(./apusiqay.jpg);
+    height: 100%;
     z-index: 1;
     
   }
