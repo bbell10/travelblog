@@ -487,4 +487,6 @@ background: #8F9DB3;
   background: white;
   } 
 
- 
+ .small{
+  max-height: 100px;
+ }
