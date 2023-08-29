@@ -184,7 +184,7 @@ img, h1, h2, h3, p, li, ul {
     justify-content: center;
     padding: 5%;
     column-gap:20px;
-    flex-wrap: wrap;
+    flex-wrap: wrap; padding: 20px;
     
 }
       
