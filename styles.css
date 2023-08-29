@@ -527,7 +527,7 @@ max-height:300px !important;
   @media (max-width:480px){
     .homepages1 h1{
       font-size: 89px !important;
-      text-align: center;
+      text-align: right;
     }
   }
   
