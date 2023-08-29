@@ -524,6 +524,12 @@ max-height:300px !important;
  }
 
   }
+  @media (min-width:480px){
+    .homepages1 h1{
+      font-size: 89px !important;
+      text-align: center;
+    }
+  }
   
      /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
   @media (min-width:480px)  { /* smartphones, Android phones, landscape iPhone */ }
