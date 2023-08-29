@@ -523,6 +523,9 @@ max-height:300px !important;
  .p1mobile{
   display: none;
  }
+ .blu{
+  max-height: 200px !important;
+ }
  #bottomhp{
   font-size: 30px ;
  }
