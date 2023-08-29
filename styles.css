@@ -489,3 +489,10 @@ background: #8F9DB3;
  .small{
   max-height: 100px;
  }
+
+ @media screen and (min-width: 480px) and (max-width: 720px){
+.navlinks{
+  font-size: 20px;
+}
+
+}
