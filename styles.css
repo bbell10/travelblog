@@ -487,41 +487,4 @@ background: #8F9DB3;
   background: white;
   } 
 
-  @media (max-device-width:320px)  {
-    .homepages1 h1{
-      font-size: 30px !important;
-      text-align: center;
-    }
-    .box1{
-max-height:300px !important;
-    }
-    .homepages1 p{
-      font-size: 12px !important;
-      text-align: center;
-    }
-    #s1 {
-      max-height: 250px;
-    }
-  
-    .wave,.wave1 {
-      display: none;
-    }
-    .nav-links ul li a{
-      font-size: 20px;
-    }
- .lift{
-  margin-top: 50px;
- }
-
- #h1mobile{
-  display: none;
- }
- .p1mobile{
-  display: none;
- }
-
- #bottomhp{
-  font-size: 30px ;
- }
-
-  }
+ 
