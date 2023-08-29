@@ -491,7 +491,7 @@ background: #8F9DB3;
  }
 
  @media screen and (min-width: 480px) and (max-width: 720px){
-.navlinks{
+.nav-links{
   font-size: 10px !important;
 }
 
