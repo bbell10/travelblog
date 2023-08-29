@@ -494,10 +494,9 @@ background: #8F9DB3;
     .box1{
 max-height:300px !important;
     }
- .mobilehp{
-max-height: 20vh !important;
- }
-    
+    .container{
+      max-height: 600px;
+    }
     .homepages1 p{
       font-size: 12px !important;
       text-align: center;
