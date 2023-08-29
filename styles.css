@@ -14,7 +14,6 @@ img, h1, h2, h3, p, li, ul {
     display: flex;
     flex-direction: column;
     align-items: center;
-    min-height: 300px;
     padding: 100px 20vw;
 }
 .jet {
