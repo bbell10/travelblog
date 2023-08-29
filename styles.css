@@ -3,6 +3,10 @@ body {
     font-family: 'Roboto', sans-serif;
     color: white;
     background: #433A3F;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -ms-flexbox;
 }
 img, h1, h2, h3, p, li, ul {
     margin: 0;
@@ -539,3 +543,9 @@ max-height:300px !important;
 @media screen {
   
 } 
+select {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -ms-flexbox;
+}
