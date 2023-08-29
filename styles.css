@@ -539,9 +539,3 @@ max-height:300px !important;
 @media screen {
   
 } 
-select {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -ms-flexbox;
-}
