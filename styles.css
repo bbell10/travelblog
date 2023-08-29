@@ -515,7 +515,7 @@ max-height:300px !important;
   margin-top: 50px;
  }
  .box2{
-  object-fit:contain;
+  background:contain !important;
  }
  #h1mobile{
   display: none;
@@ -523,9 +523,7 @@ max-height:300px !important;
  .p1mobile{
   display: none;
  }
- .blu{
-  max-height: 200px !important;
- }
+
  #bottomhp{
   font-size: 30px ;
  }
