@@ -492,7 +492,7 @@ background: #8F9DB3;
       text-align: center;
     }
     .box1{
-height:300px;
+max-height:300px !important;
     }
  .mobilehp{
 max-height: 650px !important;
