@@ -495,10 +495,7 @@ background: #8F9DB3;
     .box1{
 max-height:300px !important;
     }
-    .box2{
-      Background-repeat: no-repeat;  
-    Background-size: cover;
-    }
+  
     .homepages1 p{
       font-size: 12px !important;
       text-align: center;
